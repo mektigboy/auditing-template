@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "surya": "^0.4.6"
+  },
+  "name": "auditing-template",
+  "version": "1.0.0",
+  "description": "Smart contract auditing template for EVM chads",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mektigboy/auditing-template.git"
+  },
+  "author": "mektigboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mektigboy/auditing-template/issues"
+  },
+  "homepage": "https://github.com/mektigboy/auditing-template#readme"
+}
